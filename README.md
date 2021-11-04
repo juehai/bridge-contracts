@@ -27,13 +27,18 @@ TestToken deployed to: 0x5b32EADdDC81E0Ec6c24ef761ECA813d3D2d8a3F
 
 ## Ropsten
 ```bash
-CENNZnet bridge deployed to: 0xE9C382b43099Ff5848Da7b4E9c6B9ed5ACf356a5
+CENNZnet bridge deployed to: 0xF20edcD48f80AEEA115B291A040d5029343e5Eb6
 Deploying ERC20Peg contract...
-CENNZnet erc20peg deployed to: 0xf13d4447Fcf3D9c96DBC3D7f63E075b3Ebcbf693
+CENNZnet erc20peg deployed to: 0x8E3E3f855d0A287DeF9b75a5a8463a61b720Bc26
 Deploying TestToken contract...
 TestToken deployed to: 0xe178481d8268767F37A9060329187dfbC55b18Ff
 ```
 
+
+## Publish contract
+```bash
+yarn publish CONTRACT_ADDRESS ARGS
+```
 ## Setup
 ```bash
 # install
